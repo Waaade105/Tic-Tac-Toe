@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StudySettings">
+    <StudyTaskManager>
+      <option name="VERSION" value="16" />
+      <option name="myUserTests">
+        <map />
+      </option>
+      <option name="course">
+        <HyperskillCourse>
+          <option name="authors">
+            <list />
+          </option>
+          <option name="courseMode" value="Study" />
+          <option name="customPresentableName" />
+          <option name="description" value="Everybody knows this game from childhood. This is the game, where the price of a mistake is too high: it usually costs you the game. You can become a real master of this game by mastering only one possible option, so it also teaches you that simple is always better than complex. What’s the game? Yes, this is Tic-Tac-Toe, also known as noughts and crosses or Xs and Os. It’s meant to be a paper game, but we are programmers, so why not make a game by ourselves? Let’s get started!&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org&quot;&gt;https://hyperskill.org/projects/48&lt;/a&gt;" />
+          <option name="environment" value="" />
+          <option name="id" value="0" />
+          <option name="index" value="-1" />
+          <option name="language" value="JAVA 11" />
+          <option name="languageCode" value="en" />
+          <option name="name" value="Tic-Tac-Toe" />
+          <option name="stages">
+            <list>
+              <HyperskillStage>
+                <option name="id" value="255" />
+                <option name="stepId" value="5397" />
+                <option name="title" value="Welcome to the battlefield!" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="256" />
+                <option name="stepId" value="5398" />
+                <option name="title" value="User is a gamemaster" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="257" />
+                <option name="stepId" value="5399" />
+                <option name="title" value="What's up on a field?" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="258" />
+                <option name="stepId" value="5400" />
+                <option name="title" value="First move!" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="259" />
+                <option name="stepId" value="5401" />
+                <option name="title" value="Fight!" />
+              </HyperskillStage>
+            </list>
+          </option>
+          <option name="taskToTopics">
+            <map>
+              <entry key="0">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="15" />
+                      <option name="theoryId" value="3500" />
+                      <option name="title" value="Introduction to Java" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="147" />
+                      <option name="theoryId" value="3522" />
+                      <option name="title" value="Basic literals" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="148" />
+                      <option name="theoryId" value="3521" />
+                      <option name="title" value="Overview of the basic program" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="193" />
+                      <option name="theoryId" value="3749" />
+                      <option name="title" value="Printing data" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="1">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="480" />
+                      <option name="theoryId" value="6577" />
+                      <option name="title" value="Command line overview" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="14" />
+                      <option name="theoryId" value="3518" />
+                      <option name="title" value="Types and variables" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="309" />
+                      <option name="theoryId" value="5035" />
+                      <option name="title" value="Primitive and reference types" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="4" />
+                      <option name="theoryId" value="3511" />
+                      <option name="title" value="Array" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="30" />
+                      <option name="theoryId" value="3520" />
+                      <option name="title" value="Comments" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="112" />
+                      <option name="theoryId" value="3513" />
+                      <option name="title" value="Naming variables" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="146" />
+                      <option name="theoryId" value="3519" />
+                      <option name="title" value="Arithmetic operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="191" />
+                      <option name="theoryId" value="3739" />
+                      <option name="title" value="Write, compile and run" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="149" />
+                      <option name="theoryId" value="3499" />
+                      <option name="title" value="JVM, JRE and JDK" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="192" />
+                      <option name="theoryId" value="3746" />
+                      <option name="title" value="Running programs on your computer" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="113" />
+                      <option name="theoryId" value="3603" />
+                      <option name="title" value="Scanning the input" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="27" />
+                      <option name="theoryId" value="3565" />
+                      <option name="title" value="Integer types and operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="307" />
+                      <option name="theoryId" value="5008" />
+                      <option name="title" value="Increment and decrement" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="31" />
+                      <option name="theoryId" value="3514" />
+                      <option name="title" value="Characters" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="9" />
+                      <option name="theoryId" value="3523" />
+                      <option name="title" value="String" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="2">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="259" />
+                      <option name="theoryId" value="3805" />
+                      <option name="title" value="IDE" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="87" />
+                      <option name="theoryId" value="3516" />
+                      <option name="title" value="Boolean and logical operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="88" />
+                      <option name="theoryId" value="3512" />
+                      <option name="title" value="Relational operators" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="25" />
+                      <option name="theoryId" value="3503" />
+                      <option name="title" value="Conditional statement" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="89" />
+                      <option name="theoryId" value="3505" />
+                      <option name="title" value="The for-loop" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="90" />
+                      <option name="theoryId" value="3498" />
+                      <option name="title" value="The while and do-while loops" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="19" />
+                      <option name="theoryId" value="3507" />
+                      <option name="title" value="Branching statements" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="97" />
+                      <option name="theoryId" value="3602" />
+                      <option name="title" value="Iterating over arrays" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="12" />
+                      <option name="theoryId" value="1933" />
+                      <option name="title" value="Multi-dimensional array" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="260" />
+                      <option name="theoryId" value="3801" />
+                      <option name="title" value="IntelliJ IDEA" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="387" />
+                      <option name="theoryId" value="5819" />
+                      <option name="title" value="IDEA Basics" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="391" />
+                      <option name="theoryId" value="5839" />
+                      <option name="title" value="EduTools" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="3">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="502" />
+                      <option name="theoryId" value="6865" />
+                      <option name="title" value="Units of information" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="362" />
+                      <option name="theoryId" value="5544" />
+                      <option name="title" value="Binary numbers" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="161" />
+                      <option name="theoryId" value="3532" />
+                      <option name="title" value="Sizes and ranges" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="32" />
+                      <option name="theoryId" value="3510" />
+                      <option name="title" value="Type casting" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="163" />
+                      <option name="theoryId" value="3536" />
+                      <option name="title" value="Errors in programs" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="94" />
+                      <option name="theoryId" value="3590" />
+                      <option name="title" value="Defining methods" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="4">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="33" />
+                      <option name="theoryId" value="3504" />
+                      <option name="title" value="Switch statement" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="updateDate" value="0" />
+          <option name="hyperskillProject">
+            <HyperskillProject>
+              <option name="description" value="Everybody knows this game from childhood. This is the game, where the price of a mistake is too high: it usually costs you the game. You can become a real master of this game by mastering only one possible option, so it also teaches you that simple is always better than complex. What’s the game? Yes, this is Tic-Tac-Toe, also known as noughts and crosses or Xs and Os. It’s meant to be a paper game, but we are programmers, so why not make a game by ourselves? Let’s get started!" />
+              <option name="id" value="48" />
+              <option name="ideFiles" value="https://stepik.org/media/attachments/lesson/209897/additional_files.json" />
+              <option name="language" value="java" />
+              <option name="templateBased" value="false" />
+              <option name="title" value="Tic-Tac-Toe" />
+              <option name="useIde" value="true" />
+            </HyperskillProject>
+          </option>
+          <option name="items">
+            <list>
+              <FrameworkLesson>
+                <option name="currentTaskIndex" value="4" />
+                <option name="customPresentableName" />
+                <option name="id" value="0" />
+                <option name="index" value="1" />
+                <option name="name" value="Tic-Tac-Toe" />
+                <option name="updateDate" value="0" />
+                <option name="unitId" value="0" />
+                <option name="items">
+                  <list>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage1" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;Tic-tac-toe is a game played by two players on a 3x3 field.&lt;/p&gt;&#10;&#10;&lt;p&gt;One of the players plays as 'X', and the other player is 'O'. 'X' plays first, then the 'O' side plays, and so on.&lt;/p&gt;&#10;&#10;&lt;p&gt;The players write 'X' and 'O' on a 3x3 field.&lt;/p&gt;&#10;&#10;&lt;p&gt;The first player that writes 3 'X' or 3 'O' in a straight line (including diagonals) wins.&lt;br&gt;&#10;  &lt;br&gt;&#10;  Your first task in this project is to print any state of the field in the console output.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Example&lt;/h2&gt;&#10;&#10;&lt;p&gt;The example below shows how your output might look.&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;X O X&#10;O X O&#10;X X O &lt;/code&gt;&lt;/pre&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/48/stages/255/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5397" />
+                      <option name="index" value="1" />
+                      <option name="name" value="Welcome to the battlefield!" />
+                      <option name="record" value="1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/TicTacToeTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/TicTacToeTest.java" />
+                                <option name="text" value="import org.hyperskill.hstest.v6.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v6.testcase.CheckResult;&#10;import org.hyperskill.hstest.v6.testcase.TestCase;&#10;import tictactoe.Main;&#10;&#10;import java.util.List;&#10;&#10;public class TicTacToeTest extends BaseStageTest {&#10;    public TicTacToeTest() {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&gt; generate() {&#10;        return List.of(&#10;            new TestCase()&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, Object clue) {&#10;&#10;        reply = reply.replaceAll(&quot;\\s+&quot;, &quot;&quot;);&#10;&#10;        if (reply.length() &gt; 9) {&#10;            return new CheckResult(false,&#10;                &quot;You need to output no more than 9 &quot; +&#10;                    &quot;symbols not counting spaces&quot;);&#10;        }&#10;&#10;        boolean haveX = false;&#10;        boolean haveO = false;&#10;&#10;        for (char c : reply.toCharArray()) {&#10;            if (c != 'X' &amp;&amp; c != 'O') {&#10;                return new CheckResult(false,&#10;                    &quot;You need to output X and O &quot; +&#10;                        &quot;symbols only not counting spaces. &quot; +&#10;                        &quot;Found symbol: \'&quot; + c + &quot;\'&quot;);&#10;            }&#10;            if (c == 'X') {&#10;                haveX = true;&#10;            }&#10;            if (c == 'O') {&#10;                haveO = true;&#10;            }&#10;        }&#10;&#10;        if (!haveX) {&#10;            return CheckResult.FALSE(&#10;                &quot;You need to output at least one X&quot;&#10;            );&#10;        }&#10;&#10;        if (!haveO) {&#10;            return CheckResult.FALSE(&#10;                &quot;You need to output at least one O&quot;&#10;            );&#10;        }&#10;&#10;        return CheckResult.TRUE;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/tictactoe/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/tictactoe/Main.java" />
+                                <option name="text" value="package tictactoe;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        // write your code here&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage2" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;In this stage, you should write a program that reads 9 symbols from the input and writes an appropriate 3x3 field. Elements of the field can contain only &lt;code&gt;'X'&lt;/code&gt;, &lt;code&gt;'O'&lt;/code&gt; and &lt;code&gt;'_'&lt;/code&gt; symbols.&lt;/p&gt;&#10;&#10;&lt;p&gt;Note, that field has a specific format and should start and end with &lt;code&gt;---------&lt;/code&gt;, all lines in between should start and end with &lt;code&gt;'|'&lt;/code&gt; symbol and everything in the middle should be separated with a single space.  &lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Examples&lt;/h2&gt;&#10;&#10;&lt;p&gt;Examples below show how your output should look.&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter cells: O_OXXO_XX&#10;---------&#10;| O _ O |&#10;| X X O |&#10;| _ X X |&#10;---------&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Example 2: &lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter cells: OXO__X_OX&#10;---------&#10;| O X O |&#10;| _ _ X |&#10;| _ O X |&#10;---------&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Example 3: &lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter cells: _XO__X___&#10;---------&#10;| _ X O |&#10;| _ _ X |&#10;| _ _ _ |&#10;---------&lt;/code&gt;&lt;/pre&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/48/stages/256/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5398" />
+                      <option name="index" value="2" />
+                      <option name="name" value="User is a gamemaster" />
+                      <option name="record" value="2" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/TicTacToeTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/TicTacToeTest.java" />
+                                <option name="text" value="import org.hyperskill.hstest.v6.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v6.testcase.CheckResult;&#10;import org.hyperskill.hstest.v6.testcase.TestCase;&#10;import tictactoe.Main;&#10;&#10;import java.util.ArrayList;&#10;import java.util.List;&#10;import java.util.stream.Collectors;&#10;&#10;enum FieldState {&#10;    X, O, FREE;&#10;&#10;    static FieldState get(char symbol) {&#10;        switch (symbol) {&#10;            case 'X': return X;&#10;            case 'O': return O;&#10;            case ' ':&#10;            case '_':&#10;                return FREE;&#10;            default: return null;&#10;        }&#10;    }&#10;}&#10;&#10;class TicTacToeField {&#10;&#10;    final FieldState[][] field;&#10;&#10;    TicTacToeField(FieldState[][] field) {&#10;        this.field = new FieldState[3][3];&#10;        for (int row = 0; row &lt; 3; row++) {&#10;            for (int col = 0; col &lt; 3; col++) {&#10;                this.field[row][col] = field[row][col];&#10;            }&#10;        }&#10;    }&#10;&#10;    TicTacToeField(String str) {&#10;        field = new FieldState[3][3];&#10;        for (int row = 0; row &lt; 3; row++) {&#10;            for (int col = 0; col &lt; 3; col++) {&#10;                field[row][col] =&#10;                    FieldState.get(str.charAt(((2 - row) * 3 + col)));&#10;            }&#10;        }&#10;    }&#10;&#10;    boolean equalTo(TicTacToeField other) {&#10;        for (int i = 0; i &lt; 3; i++) {&#10;            for (int j = 0; j &lt; 3; j++) {&#10;                if (field[i][j] != other.field[i][j]) {&#10;                    return false;&#10;                }&#10;            }&#10;        }&#10;        return true;&#10;    }&#10;&#10;    boolean hasNextAs(TicTacToeField other) {&#10;        boolean improved = false;&#10;        for (int i = 0; i &lt; 3; i++) {&#10;            for (int j = 0; j &lt; 3; j++) {&#10;                if (field[i][j] != other.field[i][j]) {&#10;                    if (field[i][j] == FieldState.FREE &amp;&amp; !improved) {&#10;                        improved = true;&#10;                    }&#10;                    else {&#10;                        return false;&#10;                    }&#10;                }&#10;            }&#10;        }&#10;        return improved;&#10;    }&#10;&#10;    boolean differByOne(TicTacToeField other) {&#10;        boolean haveSingleDifference = false;&#10;&#10;        for (int i = 0; i &lt; 3; i++) {&#10;            for (int j = 0; j &lt; 3; j++) {&#10;                if (field[i][j] != other.field[i][j]) {&#10;                    if (haveSingleDifference) {&#10;                        return false;&#10;                    }&#10;                    haveSingleDifference = true;&#10;                }&#10;            }&#10;        }&#10;&#10;        return haveSingleDifference;&#10;    }&#10;&#10;    boolean isCloseTo(TicTacToeField other) {&#10;        return equalTo(other)&#10;            || hasNextAs(other)&#10;            || other.hasNextAs(this);&#10;    }&#10;&#10;    static TicTacToeField parse(String fieldStr) {&#10;&#10;        try {&#10;            List&lt;String&gt; lines = fieldStr&#10;                .lines()&#10;                .map(String::strip)&#10;                .filter(e -&gt;&#10;                    e.startsWith(&quot;|&quot;)&#10;                        &amp;&amp; e.endsWith(&quot;|&quot;))&#10;                .collect(Collectors.toList());&#10;&#10;            for (String line : lines) {&#10;                for (char c : line.toCharArray()) {&#10;                    if (c != 'X'&#10;                        &amp;&amp; c != 'O'&#10;                        &amp;&amp; c != '|'&#10;                        &amp;&amp; c != ' '&#10;                        &amp;&amp; c != '_') {&#10;                        return null;&#10;                    }&#10;                }&#10;            }&#10;&#10;            FieldState[][] field = new FieldState[3][3];&#10;&#10;            int y = 2;&#10;            for (String line : lines) {&#10;                char[] cols = new char[] {&#10;                    line.charAt(2),&#10;                    line.charAt(4),&#10;                    line.charAt(6)&#10;                };&#10;&#10;                int x = 0;&#10;                for (char c : cols) {&#10;                    FieldState state = FieldState.get(c);&#10;                    if (state == null) {&#10;                        return null;&#10;                    }&#10;                    field[y][x] = state;&#10;                    x++;&#10;                }&#10;                y--;&#10;            }&#10;&#10;            return new TicTacToeField(field);&#10;        } catch (Exception ex) {&#10;            return null;&#10;        }&#10;    }&#10;&#10;&#10;    static List&lt;TicTacToeField&gt; parseAll(String output) {&#10;        List&lt;TicTacToeField&gt; fields = new ArrayList&lt;&gt;();&#10;&#10;        List&lt;String&gt; lines = output&#10;            .lines()&#10;            .map(String::strip)&#10;            .filter(e -&gt; e.length() &gt; 0)&#10;            .collect(Collectors.toList());&#10;&#10;        String candidateField = &quot;&quot;;&#10;        boolean insideField = false;&#10;        for (String line : lines) {&#10;            if (line.contains(&quot;----&quot;) &amp;&amp; !insideField) {&#10;                insideField = true;&#10;                candidateField = &quot;&quot;;&#10;            } else if (line.contains(&quot;----&quot;) &amp;&amp; insideField) {&#10;                TicTacToeField field = TicTacToeField.parse(candidateField);&#10;                if (field != null) {&#10;                    fields.add(field);&#10;                }&#10;                insideField = false;&#10;            }&#10;&#10;            if (insideField &amp;&amp; line.startsWith(&quot;|&quot;)) {&#10;                candidateField += line + &quot;\n&quot;;&#10;            }&#10;        }&#10;&#10;        return fields;&#10;    }&#10;&#10;}&#10;&#10;public class TicTacToeTest extends BaseStageTest&lt;String&gt; {&#10;    public TicTacToeTest() {&#10;        super(Main.class);&#10;    }&#10;&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;String&gt;&gt; generate() {&#10;        List&lt;TestCase&lt;String&gt;&gt; tests = List.of(&#10;            new TestCase&lt;String&gt;()&#10;                .setInput(&quot;O OXXO XX&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .setInput(&quot;OXO  X OX&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .setInput(&quot;         &quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .setInput(&quot; O  X   X&quot;)&#10;        );&#10;&#10;        for (TestCase&lt;String&gt; test: tests) {&#10;            test.setInput(test.getInput().replace(&quot; &quot;, &quot;_&quot;));&#10;            test.setAttach(test.getInput());&#10;        }&#10;&#10;        return tests;&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, String clue) {&#10;&#10;        List&lt;TicTacToeField&gt; fields = TicTacToeField.parseAll(reply);&#10;&#10;        if (fields.size() == 0) {&#10;            return new CheckResult(false,&#10;                &quot;Can't parse the field! &quot; +&#10;                    &quot;Check if you output a field in format like in the example.&quot;);&#10;        }&#10;&#10;        if (fields.size() &gt; 1) {&#10;            return new CheckResult(false,&#10;                &quot;There are more than one field in the output! &quot; +&#10;                    &quot;You should output a single field.&quot;);&#10;        }&#10;&#10;        TicTacToeField userField = fields.get(0);&#10;        TicTacToeField inputField = new TicTacToeField(clue);&#10;&#10;        if (!userField.equalTo(inputField)) {&#10;            return new CheckResult(false,&#10;                &quot;Your field doesn't match expected field&quot;);&#10;        }&#10;&#10;        return CheckResult.TRUE;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/tictactoe/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/tictactoe/Main.java" />
+                                <option name="text" value="package tictactoe;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        // write your code here&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage3" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;In this stage, you should analyze a Tic-Tac-Toe field. &lt;br&gt;&#10;  &lt;br&gt;&#10;  &lt;strong&gt;Note.&lt;/strong&gt; In this stage either 'X' or 'O' can start the game.&lt;/p&gt;&#10;&#10;&lt;p&gt;After printing the field, you need to find the state in which the game is at the moment. Possible states:&lt;/p&gt;&#10;&#10;&lt;ul&gt;&#10;  &lt;li&gt;&lt;code&gt;&quot;Game not finished&quot;&lt;/code&gt; - when no side has a three in a row but the field has empty cells;&lt;/li&gt;&#10;  &lt;li&gt;&lt;code&gt;&quot;Draw&quot;&lt;/code&gt; - when no side has a three in a row and the field has no empty cells;&lt;/li&gt;&#10;  &lt;li&gt;&lt;code&gt;&quot;X wins&quot;&lt;/code&gt; - when the field has three X in a row;&lt;/li&gt;&#10;  &lt;li&gt;&lt;code&gt;&quot;O wins&quot;&lt;/code&gt; - when the field has three O in a row;&lt;/li&gt;&#10;  &lt;li&gt;&lt;code&gt;&quot;Impossible&quot;&lt;/code&gt; - when the field has three X in a row as well as three O in a row. Or the field has a lot more X's that O's or vice versa (if the difference is 2 or more, should be 1 or 0).&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&#10;&lt;p&gt;Also, you can use &lt;code&gt;' '&lt;/code&gt; or &lt;code&gt;'_'&lt;/code&gt; to print empty cells - it's up to you.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Examples&lt;/h2&gt;&#10;&#10;&lt;p&gt;The examples below show outputs for some predefined states. Your program should work in the same way.&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter cells: XXXOO__O_&#10;---------&#10;| X X X |&#10;| O O _ |&#10;| _ O _ |&#10;---------&#10;X wins&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Example 2:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter cells: XOXOXOXXO&#10;---------&#10;| X O X |&#10;| O X O |&#10;| X X O |&#10;---------&#10;X wins&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Example 3:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter cells: XOOOXOXXO&#10;---------&#10;| X O O |&#10;| O X O |&#10;| X X O |&#10;---------&#10;O wins&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Example 4:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter cells: XOXOOXXXO&#10;---------&#10;| X O X |&#10;| O O X |&#10;| X X O |&#10;---------&#10;Draw&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Example 5:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter cells: XO_OOX_X_&#10;---------&#10;| X O   |&#10;| O O X |&#10;|   X   |&#10;---------&#10;Game not finished&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Example 6:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter cells: XO_XO_XOX&#10;---------&#10;| X O _ |&#10;| X O _ |&#10;| X O X |&#10;---------&#10;Impossible&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Example 7:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter cells: _O_X__X_X&#10;---------&#10;|   O   |&#10;| X     |&#10;| X   X |&#10;---------&#10;Impossible&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Example 8:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter cells: _OOOO_X_X&#10;---------&#10;|   O O |&#10;| O O   |&#10;| X   X |&#10;---------&#10;Impossible&lt;/code&gt;&lt;/pre&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/48/stages/257/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5399" />
+                      <option name="index" value="3" />
+                      <option name="name" value="What's up on a field?" />
+                      <option name="record" value="3" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/TicTacToeTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/TicTacToeTest.java" />
+                                <option name="text" value="import org.hyperskill.hstest.v6.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v6.testcase.CheckResult;&#10;import org.hyperskill.hstest.v6.testcase.TestCase;&#10;import tictactoe.Main;&#10;&#10;import java.util.ArrayList;&#10;import java.util.List;&#10;import java.util.stream.Collectors;&#10;&#10;&#10;class Attach {&#10;    String input;&#10;    String result;&#10;&#10;    Attach(String result) {&#10;        this.result = result;&#10;    }&#10;}&#10;&#10;enum FieldState {&#10;    X, O, FREE;&#10;&#10;    static FieldState get(char symbol) {&#10;        switch (symbol) {&#10;            case 'X': return X;&#10;            case 'O': return O;&#10;            case ' ':&#10;            case '_':&#10;                return FREE;&#10;            default: return null;&#10;        }&#10;    }&#10;}&#10;&#10;class TicTacToeField {&#10;&#10;    final FieldState[][] field;&#10;&#10;    TicTacToeField(FieldState[][] field) {&#10;        this.field = new FieldState[3][3];&#10;        for (int row = 0; row &lt; 3; row++) {&#10;            for (int col = 0; col &lt; 3; col++) {&#10;                this.field[row][col] = field[row][col];&#10;            }&#10;        }&#10;    }&#10;&#10;    TicTacToeField(String str) {&#10;        field = new FieldState[3][3];&#10;        for (int row = 0; row &lt; 3; row++) {&#10;            for (int col = 0; col &lt; 3; col++) {&#10;                field[row][col] =&#10;                    FieldState.get(str.charAt(((2 - row) * 3 + col)));&#10;            }&#10;        }&#10;    }&#10;&#10;    boolean equalTo(TicTacToeField other) {&#10;        for (int i = 0; i &lt; 3; i++) {&#10;            for (int j = 0; j &lt; 3; j++) {&#10;                if (field[i][j] != other.field[i][j]) {&#10;                    return false;&#10;                }&#10;            }&#10;        }&#10;        return true;&#10;    }&#10;&#10;    boolean hasNextAs(TicTacToeField other) {&#10;        boolean improved = false;&#10;        for (int i = 0; i &lt; 3; i++) {&#10;            for (int j = 0; j &lt; 3; j++) {&#10;                if (field[i][j] != other.field[i][j]) {&#10;                    if (field[i][j] == FieldState.FREE &amp;&amp; !improved) {&#10;                        improved = true;&#10;                    }&#10;                    else {&#10;                        return false;&#10;                    }&#10;                }&#10;            }&#10;        }&#10;        return improved;&#10;    }&#10;&#10;    boolean differByOne(TicTacToeField other) {&#10;        boolean haveSingleDifference = false;&#10;&#10;        for (int i = 0; i &lt; 3; i++) {&#10;            for (int j = 0; j &lt; 3; j++) {&#10;                if (field[i][j] != other.field[i][j]) {&#10;                    if (haveSingleDifference) {&#10;                        return false;&#10;                    }&#10;                    haveSingleDifference = true;&#10;                }&#10;            }&#10;        }&#10;&#10;        return haveSingleDifference;&#10;    }&#10;&#10;    boolean isCloseTo(TicTacToeField other) {&#10;        return equalTo(other)&#10;            || hasNextAs(other)&#10;            || other.hasNextAs(this);&#10;    }&#10;&#10;    static TicTacToeField parse(String fieldStr) {&#10;&#10;        try {&#10;            List&lt;String&gt; lines = fieldStr&#10;                .lines()&#10;                .map(String::strip)&#10;                .filter(e -&gt;&#10;                    e.startsWith(&quot;|&quot;)&#10;                        &amp;&amp; e.endsWith(&quot;|&quot;))&#10;                .collect(Collectors.toList());&#10;&#10;            for (String line : lines) {&#10;                for (char c : line.toCharArray()) {&#10;                    if (c != 'X'&#10;                        &amp;&amp; c != 'O'&#10;                        &amp;&amp; c != '|'&#10;                        &amp;&amp; c != ' '&#10;                        &amp;&amp; c != '_') {&#10;                        return null;&#10;                    }&#10;                }&#10;            }&#10;&#10;            FieldState[][] field = new FieldState[3][3];&#10;&#10;            int y = 2;&#10;            for (String line : lines) {&#10;                char[] cols = new char[] {&#10;                    line.charAt(2),&#10;                    line.charAt(4),&#10;                    line.charAt(6)&#10;                };&#10;&#10;                int x = 0;&#10;                for (char c : cols) {&#10;                    FieldState state = FieldState.get(c);&#10;                    if (state == null) {&#10;                        return null;&#10;                    }&#10;                    field[y][x] = state;&#10;                    x++;&#10;                }&#10;                y--;&#10;            }&#10;&#10;            return new TicTacToeField(field);&#10;        } catch (Exception ex) {&#10;            return null;&#10;        }&#10;    }&#10;&#10;&#10;    static List&lt;TicTacToeField&gt; parseAll(String output) {&#10;        List&lt;TicTacToeField&gt; fields = new ArrayList&lt;&gt;();&#10;&#10;        List&lt;String&gt; lines = output&#10;            .lines()&#10;            .map(String::strip)&#10;            .filter(e -&gt; e.length() &gt; 0)&#10;            .collect(Collectors.toList());&#10;&#10;        String candidateField = &quot;&quot;;&#10;        boolean insideField = false;&#10;        for (String line : lines) {&#10;            if (line.contains(&quot;----&quot;) &amp;&amp; !insideField) {&#10;                insideField = true;&#10;                candidateField = &quot;&quot;;&#10;            } else if (line.contains(&quot;----&quot;) &amp;&amp; insideField) {&#10;                TicTacToeField field = TicTacToeField.parse(candidateField);&#10;                if (field != null) {&#10;                    fields.add(field);&#10;                }&#10;                insideField = false;&#10;            }&#10;&#10;            if (insideField &amp;&amp; line.startsWith(&quot;|&quot;)) {&#10;                candidateField += line + &quot;\n&quot;;&#10;            }&#10;        }&#10;&#10;        return fields;&#10;    }&#10;&#10;}&#10;&#10;public class TicTacToeTest extends BaseStageTest&lt;Attach&gt; {&#10;    public TicTacToeTest() {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;Attach&gt;&gt; generate() {&#10;        List&lt;TestCase&lt;Attach&gt;&gt; tests = List.of(&#10;            new TestCase&lt;Attach&gt;()&#10;                .setInput(&quot;XXXOO  O &quot;)&#10;                .setAttach(new Attach(&quot;X wins&quot;)),&#10;&#10;            new TestCase&lt;Attach&gt;()&#10;                .setInput(&quot;XOXOXOXXO&quot;)&#10;                .setAttach(new Attach(&quot;X wins&quot;)),&#10;&#10;            new TestCase&lt;Attach&gt;()&#10;                .setInput(&quot;XOOOXOXXO&quot;)&#10;                .setAttach(new Attach(&quot;O wins&quot;)),&#10;&#10;            new TestCase&lt;Attach&gt;()&#10;                .setInput(&quot;XOXOOXXXO&quot;)&#10;                .setAttach(new Attach(&quot;Draw&quot;)),&#10;&#10;            new TestCase&lt;Attach&gt;()&#10;                .setInput(&quot;XO OOX X &quot;)&#10;                .setAttach(new Attach(&quot;Game not finished&quot;)),&#10;&#10;            new TestCase&lt;Attach&gt;()&#10;                .setInput(&quot;XO XO XOX&quot;)&#10;                .setAttach(new Attach(&quot;Impossible&quot;)),&#10;&#10;            new TestCase&lt;Attach&gt;()&#10;                .setInput(&quot; O X  X X&quot;)&#10;                .setAttach(new Attach(&quot;Impossible&quot;)),&#10;&#10;            new TestCase&lt;Attach&gt;()&#10;                .setInput(&quot; OOOO X X&quot;)&#10;                .setAttach(new Attach( &quot;Impossible&quot;))&#10;        );&#10;&#10;        for (TestCase&lt;Attach&gt; test : tests) {&#10;            test.setInput(test.getInput().replace(&quot; &quot;, &quot;_&quot;));&#10;            test.getAttach().input = test.getInput();&#10;        }&#10;&#10;        return tests;&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, Attach clue) {&#10;&#10;        List&lt;TicTacToeField&gt; fields = TicTacToeField.parseAll(reply);&#10;&#10;        if (fields.size() == 0) {&#10;            return new CheckResult(false,&#10;                &quot;Can't parse the field! &quot; +&#10;                    &quot;Check if you output a field in format like in the example.&quot;);&#10;        }&#10;&#10;        if (fields.size() &gt; 1) {&#10;            return new CheckResult(false,&#10;                &quot;There are more than one field in the output! &quot; +&#10;                    &quot;You should output a single field.&quot;);&#10;        }&#10;&#10;        TicTacToeField userField = fields.get(0);&#10;        TicTacToeField inputField = new TicTacToeField(clue.input);&#10;&#10;        if (!userField.equalTo(inputField)) {&#10;            return new CheckResult(false,&#10;                &quot;Your field doesn't match expected field&quot;);&#10;        }&#10;&#10;        List&lt;String&gt; lines = reply&#10;            .strip()&#10;            .lines()&#10;            .map(String::strip)&#10;            .filter(e -&gt; e.length() &gt; 0)&#10;            .collect(Collectors.toList());&#10;&#10;        String lastLine = lines.get(lines.size() - 1);&#10;&#10;        if (! (lastLine.equals(&quot;X wins&quot;)&#10;            || lastLine.equals(&quot;O wins&quot;)&#10;            || lastLine.equals(&quot;Draw&quot;)&#10;            || lastLine.equals(&quot;Game not finished&quot;)&#10;            || lastLine.equals(&quot;Impossible&quot;)&#10;        )) {&#10;            return new CheckResult(false,&#10;                &quot;Can't parse result, &quot; +&#10;                    &quot;should be one of the outcomes mentioned in description. &quot; +&#10;                    &quot;Your last line: \&quot;&quot; + lastLine + &quot;\&quot;&quot;);&#10;        }&#10;&#10;        if (!lastLine.equals(clue.result)) {&#10;            return new CheckResult(false,&#10;                &quot;The result is incorrect. &quot; +&#10;                    &quot;Should be: \&quot;&quot; + clue.result + &quot;\&quot;, &quot; +&#10;                    &quot;found: \&quot;&quot; + lastLine + &quot;\&quot;. &quot; +&#10;                    &quot;Check if your program works correctly in test examples in description.&quot;);&#10;        }&#10;&#10;        return CheckResult.TRUE;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/tictactoe/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/tictactoe/Main.java" />
+                                <option name="text" value="package tictactoe;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        // write your code here&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage4" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;Now you need to implement human moves.&lt;/p&gt;&#10;&#10;&lt;p&gt;Suppose the bottom left cell has the coordinates (1, 1) and the top right cell has the coordinates (3, 3) like in this table:&lt;br&gt;&#10;  &lt;br&gt;&#10;  (1, 3) (2, 3) (3, 3)&lt;br&gt;&#10;  (1, 2) (2, 2) (3, 2)&lt;br&gt;&#10;  (1, 1) (2, 1) (3, 1)&lt;/p&gt;&#10;&#10;&lt;p&gt;The program should work in the following way:&lt;/p&gt;&#10;&#10;&lt;ol&gt;&#10;  &lt;li&gt;Get the 3x3 field from the input as in the previous stages,&lt;/li&gt;&#10;  &lt;li&gt;Output this 3x3 field with cells before the user's move,&lt;/li&gt;&#10;  &lt;li&gt;Then ask the user about his next move,&lt;/li&gt;&#10;  &lt;li&gt;Then the user should input 2 numbers that represent the cell on which user wants to make his X or O. (9 symbols representing the field would be on the first line and these 2 numbers would be on the second line of the user input),&lt;/li&gt;&#10;  &lt;li&gt;Then output the table including the user's most recent move.&lt;/li&gt;&#10;&lt;/ol&gt;&#10;&#10;&lt;p&gt;Do not delete code that checks for table state; it will be useful in the future.&lt;/p&gt;&#10;&#10;&lt;p&gt;Note that in this stage user moves as X, not O. Keep in mind that the first coordinate goes from left to right and the second coordinate goes from bottom to top. Also, notice that coordinates start with 1 and can be 1, 2 or 3.&lt;/p&gt;&#10;&#10;&lt;p&gt;But what if the user enters incorrect coordinates? The user could enter symbols instead of numbers or enter coordinates representing occupied cells. You need to prevent all of that by checking a user's input and catching possible exceptions.&lt;/p&gt;&#10;&#10;&lt;p&gt;The program should also check user input. If the user input is unsuitable, the program should ask him to enter coordinates again. &lt;/p&gt;&#10;&#10;&lt;p&gt;So, you need to output a field from the first line of the input and then ask the user to enter a move. Keep asking until the user enters coordinate that represents an empty cell on the field and after that output the field with that move. You should output the field only 2 times - before the move and after a legal move.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Examples&lt;/h2&gt;&#10;&#10;&lt;p&gt;The examples below shows how your program should work.&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Example 1:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter cells: X_X_O____&#10;---------&#10;| X   X |&#10;|   O   |&#10;|       |&#10;---------&#10;Enter the coordinates: 1 1&#10;---------&#10;| X   X |&#10;|   O   |&#10;| X     |&#10;---------&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Example 2: &lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter cells: _XXOO_OX_&#10;---------&#10;|   X X |&#10;| O O   |&#10;| O X   |&#10;---------&#10;Enter the coordinates: 1 3&#10;---------&#10;| X X X |&#10;| O O   |&#10;| O X   |&#10;---------&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Example 3: &lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter cells: _XXOO_OX_&#10;---------&#10;|   X X |&#10;| O O   |&#10;| O X   |&#10;---------&#10;Enter the coordinates: 3 1&#10;---------&#10;|   X X |&#10;| O O   |&#10;| O X X |&#10;---------&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Example 4:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter cells: _XXOO_OX_&#10;---------&#10;|   X X |&#10;| O O   |&#10;| O X   |&#10;---------&#10;Enter the coordinates: 3 2&#10;---------&#10;|   X X |&#10;| O O X |&#10;| O X   |&#10;---------&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Example 5:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter cells: _XXOO_OX_&#10;---------&#10;|   X X |&#10;| O O   |&#10;| O X   |&#10;---------&#10;Enter the coordinates: 1 1&#10;This cell is occupied! Choose another one!&#10;Enter the coordinates: 1 3&#10;---------&#10;| X X X |&#10;| O O   |&#10;| O X   |&#10;---------&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Example 6:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter cells: _XXOO_OX_&#10;---------&#10;|   X X |&#10;| O O   |&#10;| O X   |&#10;---------&#10;Enter the coordinates: one&#10;You should enter numbers!&#10;Enter the coordinates: one three&#10;You should enter numbers!&#10;Enter the coordinates: 1 3&#10;---------&#10;| X X X |&#10;| O O   |&#10;| O X   |&#10;---------&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Example 7:&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Enter cells: _XXOO_OX_&#10;---------&#10;|   X X |&#10;| O O   |&#10;| O X   |&#10;---------&#10;Enter the coordinates: 4 1&#10;Coordinates should be from 1 to 3!&#10;Enter the coordinates: 1 4&#10;Coordinates should be from 1 to 3!&#10;Enter the coordinates: 1 3&#10;---------&#10;| X X X |&#10;| O O   |&#10;| O X   |&#10;---------&lt;/code&gt;&lt;/pre&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/48/stages/258/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5400" />
+                      <option name="index" value="4" />
+                      <option name="name" value="First move!" />
+                      <option name="record" value="4" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/TicTacToeTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/TicTacToeTest.java" />
+                                <option name="text" value="import org.hyperskill.hstest.v6.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v6.testcase.CheckResult;&#10;import org.hyperskill.hstest.v6.testcase.TestCase;&#10;import tictactoe.Main;&#10;&#10;import java.util.ArrayList;&#10;import java.util.List;&#10;import java.util.stream.Collectors;&#10;&#10;enum FieldState {&#10;    X, O, FREE;&#10;&#10;    static FieldState get(char symbol) {&#10;        switch (symbol) {&#10;            case 'X': return X;&#10;            case 'O': return O;&#10;            case ' ':&#10;            case '_':&#10;                return FREE;&#10;            default: return null;&#10;        }&#10;    }&#10;}&#10;&#10;class TicTacToeField {&#10;&#10;    final FieldState[][] field;&#10;&#10;    TicTacToeField(FieldState[][] field) {&#10;        this.field = new FieldState[3][3];&#10;        for (int row = 0; row &lt; 3; row++) {&#10;            for (int col = 0; col &lt; 3; col++) {&#10;                this.field[row][col] = field[row][col];&#10;            }&#10;        }&#10;    }&#10;&#10;    TicTacToeField(String str) {&#10;        field = new FieldState[3][3];&#10;        for (int row = 0; row &lt; 3; row++) {&#10;            for (int col = 0; col &lt; 3; col++) {&#10;                field[row][col] =&#10;                    FieldState.get(str.charAt(((2 - row) * 3 + col)));&#10;            }&#10;        }&#10;    }&#10;&#10;    boolean equalTo(TicTacToeField other) {&#10;        for (int i = 0; i &lt; 3; i++) {&#10;            for (int j = 0; j &lt; 3; j++) {&#10;                if (field[i][j] != other.field[i][j]) {&#10;                    return false;&#10;                }&#10;            }&#10;        }&#10;        return true;&#10;    }&#10;&#10;    boolean hasNextAs(TicTacToeField other) {&#10;        boolean improved = false;&#10;        for (int i = 0; i &lt; 3; i++) {&#10;            for (int j = 0; j &lt; 3; j++) {&#10;                if (field[i][j] != other.field[i][j]) {&#10;                    if (field[i][j] == FieldState.FREE &amp;&amp; !improved) {&#10;                        improved = true;&#10;                    }&#10;                    else {&#10;                        return false;&#10;                    }&#10;                }&#10;            }&#10;        }&#10;        return improved;&#10;    }&#10;&#10;    boolean isCloseTo(TicTacToeField other) {&#10;        return equalTo(other)&#10;            || hasNextAs(other)&#10;            || other.hasNextAs(this);&#10;    }&#10;&#10;    static TicTacToeField parse(String fieldStr) {&#10;&#10;        try {&#10;            List&lt;String&gt; lines = fieldStr&#10;                .lines()&#10;                .map(String::strip)&#10;                .filter(e -&gt;&#10;                    e.startsWith(&quot;|&quot;)&#10;                        &amp;&amp; e.endsWith(&quot;|&quot;))&#10;                .collect(Collectors.toList());&#10;&#10;            for (String line : lines) {&#10;                for (char c : line.toCharArray()) {&#10;                    if (c != 'X'&#10;                        &amp;&amp; c != 'O'&#10;                        &amp;&amp; c != '|'&#10;                        &amp;&amp; c != ' '&#10;                        &amp;&amp; c != '_') {&#10;                        return null;&#10;                    }&#10;                }&#10;            }&#10;&#10;            FieldState[][] field = new FieldState[3][3];&#10;&#10;            int y = 2;&#10;            for (String line : lines) {&#10;                char[] cols = new char[] {&#10;                    line.charAt(2),&#10;                    line.charAt(4),&#10;                    line.charAt(6)&#10;                };&#10;&#10;                int x = 0;&#10;                for (char c : cols) {&#10;                    FieldState state = FieldState.get(c);&#10;                    if (state == null) {&#10;                        return null;&#10;                    }&#10;                    field[y][x] = state;&#10;                    x++;&#10;                }&#10;                y--;&#10;            }&#10;&#10;            return new TicTacToeField(field);&#10;        } catch (Exception ex) {&#10;            return null;&#10;        }&#10;    }&#10;&#10;&#10;    static List&lt;TicTacToeField&gt; parseAll(String output) {&#10;        List&lt;TicTacToeField&gt; fields = new ArrayList&lt;&gt;();&#10;&#10;        List&lt;String&gt; lines = output&#10;            .lines()&#10;            .map(String::strip)&#10;            .filter(e -&gt; e.length() &gt; 0)&#10;            .collect(Collectors.toList());&#10;&#10;        String candidateField = &quot;&quot;;&#10;        boolean insideField = false;&#10;        for (String line : lines) {&#10;            if (line.contains(&quot;----&quot;) &amp;&amp; !insideField) {&#10;                insideField = true;&#10;                candidateField = &quot;&quot;;&#10;            } else if (line.contains(&quot;----&quot;) &amp;&amp; insideField) {&#10;                TicTacToeField field = TicTacToeField.parse(candidateField);&#10;                if (field != null) {&#10;                    fields.add(field);&#10;                }&#10;                insideField = false;&#10;            }&#10;&#10;            if (insideField &amp;&amp; line.startsWith(&quot;|&quot;)) {&#10;                candidateField += line + &quot;\n&quot;;&#10;            }&#10;        }&#10;&#10;        return fields;&#10;    }&#10;&#10;}&#10;&#10;&#10;class Clue {&#10;    int x, y;&#10;    String input;&#10;    Clue(String input, int x, int y) {&#10;        this.input = input;&#10;        this.x = x;&#10;        this.y = y;&#10;    }&#10;}&#10;&#10;public class TicTacToeTest extends BaseStageTest&lt;Clue&gt; {&#10;    public TicTacToeTest() {&#10;        super(Main.class);&#10;    }&#10;&#10;    static final String[] inputs = new String[] {&#10;        &quot;1 1&quot;, &quot;1 2&quot;, &quot;1 3&quot;,&#10;        &quot;2 1&quot;, &quot;2 2&quot;, &quot;2 3&quot;,&#10;        &quot;3 1&quot;, &quot;3 2&quot;, &quot;3 3&quot;&#10;    };&#10;&#10;    String iterateCells(String initial) {&#10;        int index = -1;&#10;        for (int i = 0; i &lt; inputs.length; i++) {&#10;            if (initial.equals(inputs[i])) {&#10;                index = i;&#10;                break;&#10;            }&#10;        }&#10;        if (index == -1) {&#10;            return &quot;&quot;;&#10;        }&#10;        String fullInput = &quot;&quot;;&#10;        for (int i = index; i &lt; index + 9; i++) {&#10;            fullInput += inputs[i % inputs.length] + &quot;\n&quot;;&#10;        }&#10;        return fullInput;&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;Clue&gt;&gt; generate() {&#10;&#10;        List&lt;TestCase&lt;Clue&gt;&gt; tests = new ArrayList&lt;&gt;();&#10;&#10;        int i = 0;&#10;&#10;        for (String startField : new String[] {&#10;            &quot;_XXOO_OX_&quot;,&#10;            &quot;_________&quot;,&#10;            &quot;X_X_O____&quot;&#10;        }) {&#10;&#10;            for (String input : inputs) {&#10;                String fullInput = iterateCells(input);&#10;&#10;                String[] strNums = input.split(&quot;\\s+&quot;);&#10;                int x = Integer.parseInt(strNums[0]);&#10;                int y = Integer.parseInt(strNums[1]);&#10;&#10;                if (i % 2 == 1) {&#10;                    // mix with incorrect data&#10;                    fullInput = &quot;4 &quot; + i + &quot;\n&quot; + fullInput;&#10;                }&#10;&#10;                tests.add(new TestCase&lt;Clue&gt;()&#10;                    .setInput(startField + &quot;\n&quot; + fullInput)&#10;                    .setAttach(new Clue(startField, x, y)));&#10;&#10;                i++;&#10;            }&#10;&#10;        }&#10;&#10;        return tests;&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, Clue clue) {&#10;&#10;        List&lt;TicTacToeField&gt; fields = TicTacToeField.parseAll(reply);&#10;&#10;        if (fields.size() != 2) {&#10;            return new CheckResult(false,&#10;                &quot;Can't find two fields inside output&quot;);&#10;        }&#10;&#10;        TicTacToeField curr = fields.get(0);&#10;        TicTacToeField next = fields.get(1);&#10;&#10;        TicTacToeField correctCurr = new TicTacToeField(clue.input);&#10;        TicTacToeField correctNext = new TicTacToeField(correctCurr.field);&#10;&#10;        String[] numInputs = iterateCells(clue.x + &quot; &quot; + clue.y).split(&quot;\n&quot;);&#10;        for (String input : numInputs) {&#10;            String[] strNums = input.split(&quot; &quot;);&#10;            int x = Integer.parseInt(strNums[0]);&#10;            int y = Integer.parseInt(strNums[1]);&#10;            if (correctNext.field[y - 1][x - 1] == FieldState.FREE) {&#10;                correctNext.field[y - 1][x - 1] = FieldState.X;&#10;                break;&#10;            }&#10;        }&#10;&#10;        if (!curr.equalTo(correctCurr)) {&#10;            return new CheckResult(false,&#10;                &quot;The first field is not equal to the input field&quot;);&#10;        }&#10;&#10;        if (!next.equalTo(correctNext)) {&#10;            return new CheckResult(false,&#10;                &quot;The first field is correct, but the second is not&quot;);&#10;        }&#10;&#10;        return CheckResult.TRUE;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/tictactoe/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/tictactoe/Main.java" />
+                                <option name="text" value="package tictactoe;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        // write your code here&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage5" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;Now it is time to make a working game!&lt;/p&gt;&#10;&#10;&lt;p&gt;In the last stage, make it so you can play a full game with a friend. First one of you moves as X, and then the other one moves as O.&lt;/p&gt;&#10;&#10;&lt;p&gt;You need to create a game loop. The game starts with empty cells and ends when someone wins or there is a draw. You need to output the final result after the end of the game.&lt;/p&gt;&#10;&#10;&lt;p&gt;Good luck gaming!&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Example&lt;/h2&gt;&#10;&#10;&lt;p&gt;The example below shows how your program should work.&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;---------&#10;|       |&#10;|       |&#10;|       |&#10;---------&#10;Enter the coordinates: 2 2&#10;---------&#10;|       |&#10;|   X   |&#10;|       |&#10;---------&#10;Enter the coordinates: 2 2&#10;This cell is occupied! Choose another one!&#10;Enter the coordinates: two two&#10;You should enter numbers!&#10;Enter the coordinates: 1 4&#10;Coordinates should be from 1 to 3!&#10;Enter the coordinates: 1 3&#10;---------&#10;| O     |&#10;|   X   |&#10;|       |&#10;---------&#10;Enter the coordinates: 3 1&#10;---------&#10;| O     |&#10;|   X   |&#10;|     X |&#10;---------&#10;Enter the coordinates: 1 2&#10;---------&#10;| O     |&#10;| O X   |&#10;|     X |&#10;---------&#10;Enter the coordinates: 1 1&#10;---------&#10;| O     |&#10;| O X   |&#10;| X   X |&#10;---------&#10;Enter the coordinates: 3 2&#10;---------&#10;| O     |&#10;| O X O |&#10;| X   X |&#10;---------&#10;Enter the coordinates: 2 1&#10;---------&#10;| O     |&#10;| O X O |&#10;| X X X |&#10;---------&#10;X wins&lt;/code&gt;&lt;/pre&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/48/stages/259/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5401" />
+                      <option name="index" value="5" />
+                      <option name="name" value="Fight!" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/TicTacToeTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/TicTacToeTest.java" />
+                                <option name="text" value="import org.hyperskill.hstest.v6.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v6.testcase.CheckResult;&#10;import org.hyperskill.hstest.v6.testcase.TestCase;&#10;import tictactoe.Main;&#10;&#10;import java.util.ArrayList;&#10;import java.util.List;&#10;import java.util.Random;&#10;import java.util.stream.Collectors;&#10;&#10;enum FieldState {&#10;    X, O, FREE;&#10;&#10;    static FieldState get(char symbol) {&#10;        switch (symbol) {&#10;            case 'X': return X;&#10;            case 'O': return O;&#10;            case ' ':&#10;            case '_':&#10;                return FREE;&#10;            default: return null;&#10;        }&#10;    }&#10;}&#10;&#10;class TicTacToeField {&#10;&#10;    final FieldState[][] field;&#10;&#10;    TicTacToeField(FieldState[][] field) {&#10;        this.field = new FieldState[3][3];&#10;        for (int row = 0; row &lt; 3; row++) {&#10;            for (int col = 0; col &lt; 3; col++) {&#10;                this.field[row][col] = field[row][col];&#10;            }&#10;        }&#10;    }&#10;&#10;    TicTacToeField(String str) {&#10;        field = new FieldState[3][3];&#10;        for (int row = 0; row &lt; 3; row++) {&#10;            for (int col = 0; col &lt; 3; col++) {&#10;                field[row][col] =&#10;                    FieldState.get(str.charAt(((2 - row) * 3 + col)));&#10;            }&#10;        }&#10;    }&#10;&#10;    FieldState get(int x, int y) {&#10;        return field[y - 1][x - 1];&#10;    }&#10;&#10;    boolean equalTo(TicTacToeField other) {&#10;        for (int i = 0; i &lt; 3; i++) {&#10;            for (int j = 0; j &lt; 3; j++) {&#10;                if (field[i][j] != other.field[i][j]) {&#10;                    return false;&#10;                }&#10;            }&#10;        }&#10;        return true;&#10;    }&#10;&#10;    boolean hasNextAs(TicTacToeField other) {&#10;        boolean improved = false;&#10;        for (int i = 0; i &lt; 3; i++) {&#10;            for (int j = 0; j &lt; 3; j++) {&#10;                if (field[i][j] != other.field[i][j]) {&#10;                    if (field[i][j] == FieldState.FREE &amp;&amp; !improved) {&#10;                        improved = true;&#10;                    }&#10;                    else {&#10;                        return false;&#10;                    }&#10;                }&#10;            }&#10;        }&#10;        return improved;&#10;    }&#10;&#10;    boolean isCloseTo(TicTacToeField other) {&#10;        return equalTo(other)&#10;            || hasNextAs(other)&#10;            || other.hasNextAs(this);&#10;    }&#10;&#10;    boolean isWinning(FieldState side) {&#10;        if (side == FieldState.FREE) {&#10;            return false;&#10;        }&#10;&#10;        if (get(1, 1) == side &amp;&amp;&#10;            get(1, 2) == side &amp;&amp;&#10;            get(1, 3) == side) {&#10;            return true;&#10;        }&#10;&#10;        if (get(2, 1) == side &amp;&amp;&#10;            get(2, 2) == side &amp;&amp;&#10;            get(2, 3) == side) {&#10;            return true;&#10;        }&#10;&#10;        if (get(3, 1) == side &amp;&amp;&#10;            get(3, 2) == side &amp;&amp;&#10;            get(3, 3) == side) {&#10;            return true;&#10;        }&#10;&#10;        if (get(1, 1) == side &amp;&amp;&#10;            get(2, 1) == side &amp;&amp;&#10;            get(3, 1) == side) {&#10;            return true;&#10;        }&#10;&#10;        if (get(1, 2) == side &amp;&amp;&#10;            get(2, 2) == side &amp;&amp;&#10;            get(3, 2) == side) {&#10;            return true;&#10;        }&#10;&#10;        if (get(1, 3) == side &amp;&amp;&#10;            get(2, 3) == side &amp;&amp;&#10;            get(3, 3) == side) {&#10;            return true;&#10;        }&#10;&#10;        if (get(1, 1) == side &amp;&amp;&#10;            get(2, 2) == side &amp;&amp;&#10;            get(3, 3) == side) {&#10;            return true;&#10;        }&#10;&#10;        if (get(1, 3) == side &amp;&amp;&#10;            get(2, 2) == side &amp;&amp;&#10;            get(3, 1) == side) {&#10;            return true;&#10;        }&#10;&#10;        return false;&#10;    }&#10;&#10;    boolean isDraw() {&#10;        if (isWinning(FieldState.X) || isWinning(FieldState.O)) {&#10;            return false;&#10;        }&#10;        for (int x = 1; x &lt;= 3; x++) {&#10;            for (int y = 1; y &lt;= 3; y++) {&#10;                if (get(x, y) == FieldState.FREE) {&#10;                    return false;&#10;                }&#10;            }&#10;        }&#10;        return true;&#10;    }&#10;&#10;    static TicTacToeField parse(String fieldStr) {&#10;&#10;        try {&#10;            List&lt;String&gt; lines = fieldStr&#10;                .lines()&#10;                .map(String::strip)&#10;                .filter(e -&gt;&#10;                    e.startsWith(&quot;|&quot;)&#10;                        &amp;&amp; e.endsWith(&quot;|&quot;))&#10;                .collect(Collectors.toList());&#10;&#10;            for (String line : lines) {&#10;                for (char c : line.toCharArray()) {&#10;                    if (c != 'X'&#10;                        &amp;&amp; c != 'O'&#10;                        &amp;&amp; c != '|'&#10;                        &amp;&amp; c != ' '&#10;                        &amp;&amp; c != '_') {&#10;                        return null;&#10;                    }&#10;                }&#10;            }&#10;&#10;            FieldState[][] field = new FieldState[3][3];&#10;&#10;            int y = 2;&#10;            for (String line : lines) {&#10;                char[] cols = new char[] {&#10;                    line.charAt(2),&#10;                    line.charAt(4),&#10;                    line.charAt(6)&#10;                };&#10;&#10;                int x = 0;&#10;                for (char c : cols) {&#10;                    FieldState state = FieldState.get(c);&#10;                    if (state == null) {&#10;                        return null;&#10;                    }&#10;                    field[y][x] = state;&#10;                    x++;&#10;                }&#10;                y--;&#10;            }&#10;&#10;            return new TicTacToeField(field);&#10;        } catch (Exception ex) {&#10;            return null;&#10;        }&#10;    }&#10;&#10;&#10;    static List&lt;TicTacToeField&gt; parseAll(String output) {&#10;        List&lt;TicTacToeField&gt; fields = new ArrayList&lt;&gt;();&#10;&#10;        List&lt;String&gt; lines = output&#10;            .lines()&#10;            .map(String::strip)&#10;            .filter(e -&gt; e.length() &gt; 0)&#10;            .collect(Collectors.toList());&#10;&#10;        String candidateField = &quot;&quot;;&#10;        boolean insideField = false;&#10;        for (String line : lines) {&#10;            if (line.contains(&quot;----&quot;) &amp;&amp; !insideField) {&#10;                insideField = true;&#10;                candidateField = &quot;&quot;;&#10;            } else if (line.contains(&quot;----&quot;) &amp;&amp; insideField) {&#10;                TicTacToeField field = TicTacToeField.parse(candidateField);&#10;                if (field != null) {&#10;                    fields.add(field);&#10;                }&#10;                insideField = false;&#10;            }&#10;&#10;            if (insideField &amp;&amp; line.startsWith(&quot;|&quot;)) {&#10;                candidateField += line + &quot;\n&quot;;&#10;            }&#10;        }&#10;&#10;        return fields;&#10;    }&#10;&#10;}&#10;&#10;&#10;class Clue {&#10;    int x, y;&#10;    Clue(int x, int y) {&#10;        this.x = x;&#10;        this.y = y;&#10;    }&#10;}&#10;&#10;public class TicTacToeTest extends BaseStageTest&lt;Clue&gt; {&#10;    public TicTacToeTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    static String[] inputs = new String[] {&#10;        &quot;1 1&quot;, &quot;1 2&quot;, &quot;1 3&quot;,&#10;        &quot;2 1&quot;, &quot;2 2&quot;, &quot;2 3&quot;,&#10;        &quot;3 1&quot;, &quot;3 2&quot;, &quot;3 3&quot;&#10;    };&#10;&#10;    String iterateCells(String initial) {&#10;        int index = -1;&#10;        for (int i = 0; i &lt; inputs.length; i++) {&#10;            if (initial.equals(inputs[i])) {&#10;                index = i;&#10;                break;&#10;            }&#10;        }&#10;        if (index == -1) {&#10;            return &quot;&quot;;&#10;        }&#10;        String fullInput = &quot;&quot;;&#10;        for (int i = index; i &lt; index + 9; i++) {&#10;            fullInput += inputs[i % inputs.length] + &quot;\n&quot;;&#10;        }&#10;        return fullInput;&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;Clue&gt;&gt; generate() {&#10;&#10;        List&lt;TestCase&lt;Clue&gt;&gt; tests = new ArrayList&lt;&gt;();&#10;&#10;        int i = 0;&#10;        for (String input : inputs) {&#10;&#10;            Random random = new Random();&#10;            String randomInput = &quot;&quot;;&#10;            for (int j = 0; j &lt; 10; j++) {&#10;                int randX = random.nextInt(4) + 1;&#10;                int randY = random.nextInt(4) + 1;&#10;                randomInput += randX + &quot; &quot; + randY + &quot;\n&quot;;&#10;            }&#10;&#10;            String fullMoveInput = randomInput&#10;                + iterateCells(input) + iterateCells(input);&#10;&#10;            String[] strNums = input.split(&quot; &quot;);&#10;            int x = Integer.parseInt(strNums[0]);&#10;            int y = Integer.parseInt(strNums[1]);&#10;&#10;            if (i % 2 == 1) {&#10;                // mix with incorrect data&#10;                fullMoveInput = &quot;4 &quot; + i + &quot;\n&quot; + fullMoveInput;&#10;            }&#10;&#10;            String fullGameInput = &quot;&quot;;&#10;            for (int j = 0; j &lt; 9; j++) {&#10;                fullGameInput += fullMoveInput;&#10;            }&#10;&#10;            tests.add(new TestCase&lt;Clue&gt;()&#10;                .setInput(fullGameInput)&#10;                .setAttach(new Clue(x, y)));&#10;&#10;            i++;&#10;        }&#10;&#10;        return tests;&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, Clue clue) {&#10;&#10;        List&lt;TicTacToeField&gt; fields = TicTacToeField.parseAll(reply);&#10;&#10;        if (fields.size() == 0) {&#10;            return new CheckResult(false, &quot;No fields found&quot;);&#10;        }&#10;&#10;        for (int i = 1; i &lt; fields.size(); i++) {&#10;            TicTacToeField curr = fields.get(i - 1);&#10;            TicTacToeField next = fields.get(i);&#10;&#10;            if (!(curr.equalTo(next) || curr.hasNextAs(next))) {&#10;                return new CheckResult(false,&#10;                    &quot;For two fields following each &quot; +&#10;                        &quot;other one is not a continuation &quot; +&#10;                        &quot;of the other (they differ more than in two places).&quot;);&#10;            }&#10;        }&#10;&#10;        List&lt;String&gt; lines = reply&#10;            .strip()&#10;            .lines()&#10;            .map(String::strip)&#10;            .filter(e -&gt; e.length() &gt; 0)&#10;            .collect(Collectors.toList());&#10;&#10;        String lastLine = lines.get(lines.size() - 1);&#10;&#10;        if (! (lastLine.equals(&quot;X wins&quot;)&#10;            || lastLine.equals(&quot;O wins&quot;)&#10;            || lastLine.equals(&quot;Draw&quot;)&#10;        )) {&#10;            return new CheckResult(false,&#10;                &quot;Can't parse final result, &quot; +&#10;                    &quot;should be \&quot;Draw\&quot;, \&quot;X wins\&quot; or \&quot;O wins\&quot;.\n&quot; +&#10;                    &quot;Your last line: \&quot;&quot; + lastLine + &quot;\&quot;&quot;);&#10;        }&#10;&#10;        TicTacToeField lastField = fields.get(fields.size() - 1);&#10;&#10;        if (lastField.isWinning(FieldState.X) &amp;&amp; !lastLine.equals(&quot;X wins&quot;)) {&#10;            return new CheckResult(false,&#10;                &quot;Your last field shows that X wins, &quot; +&#10;                    &quot;and your last line should be \&quot;X wins\&quot;.\n&quot; +&#10;                    &quot;Your last line: \&quot;&quot; + lastLine + &quot;\&quot;&quot;);&#10;        }&#10;&#10;        if (lastField.isWinning(FieldState.O) &amp;&amp; !lastLine.equals(&quot;O wins&quot;)) {&#10;            return new CheckResult(false,&#10;                &quot;Your last field shows that O wins, &quot; +&#10;                    &quot;and your last line should be \&quot;O wins\&quot;.\n&quot; +&#10;                    &quot;Your last line: \&quot;&quot; + lastLine + &quot;\&quot;&quot;);&#10;        }&#10;&#10;        if (lastField.isDraw() &amp;&amp; !lastLine.equals(&quot;Draw&quot;)) {&#10;            return new CheckResult(false,&#10;                &quot;Your last field shows that there is a draw, &quot; +&#10;                    &quot;and your last line should be \&quot;Draw\&quot;.\n&quot; +&#10;                    &quot;Your last line: \&quot;&quot; + lastLine + &quot;\&quot;&quot;);&#10;        }&#10;&#10;        if (lastField.isWinning(FieldState.X) ||&#10;            lastField.isWinning(FieldState.O) ||&#10;            lastField.isDraw()) {&#10;            return CheckResult.TRUE;&#10;        }&#10;&#10;        return CheckResult.FALSE(&#10;            &quot;Your last field contains unfinished game, the game should be finished!&quot;&#10;        );&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/tictactoe/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/tictactoe/Main.java" />
+                                <option name="text" value="package tictactoe;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        // write your code here&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </EduTask>
+                  </list>
+                </option>
+              </FrameworkLesson>
+              <Lesson>
+                <option name="customPresentableName" />
+                <option name="id" value="0" />
+                <option name="index" value="2" />
+                <option name="name" value="Problems" />
+                <option name="updateDate" value="0" />
+                <option name="unitId" value="0" />
+                <option name="items">
+                  <list>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Shape&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/2297&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;Write a program, which reads the number of the shape (1 – square, 2 – circle, 3 – triangle, 4 – rhombus) and prints the text &quot;&lt;b&gt;&lt;span style=&quot;color: #000;&quot;&gt;You have chosen a square&lt;/span&gt;&lt;/b&gt;&quot; (or circle, or triangle, or rhombus, depending on the number). If it is a number that doesn't correspond to any of the listed shapes, the program should output: &quot;&lt;b&gt;&lt;span style=&quot;color: #000;&quot;&gt;There is no such shape!&lt;/span&gt;&lt;/b&gt;&quot;.&lt;br&gt;&lt;/p&gt; &#10;  &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color: #000;&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;color: #000;&quot;&gt;Note&lt;/span&gt;&lt;b&gt;&lt;span style=&quot;color: #000;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: #000;&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;color: #000;&quot;&gt;:&lt;/span&gt;&lt;b&gt;&lt;span style=&quot;color: #000;&quot;&gt; &lt;/span&gt;&lt;/b&gt;output text should &lt;b&gt;exactly&lt;/b&gt; match the sample, including letters' case and location of spaces.&lt;/p&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;1&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;You have chosen a square&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/3504&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/2297" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="2297" />
+                      <option name="index" value="1" />
+                      <option name="name" value="Shape" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="class Main {&#10;    public static void main(String[] args) {&#10;        // put your code here&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Direction&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/2298&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;Write a program, which reads the number of direction (1 – up, 2 – down, 3 – left, 4 – right, 0 – stay) and outputs the text «&lt;span style=&quot;color: #66cc66;&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: #000;&quot;&gt;move up&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;» (or «move down», or «move left», or «move right», or «do not move» depending on the entered number). If it is a number that does not belong to any of the listed directions, the program should output: «&lt;span style=&quot;color: #66cc66;&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: #000;&quot;&gt;error!&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;»&lt;br&gt;&lt;/p&gt; &#10;  &lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;span style=&quot;color: #000;&quot;&gt;Note&lt;/span&gt;&lt;b&gt;&lt;/b&gt;&lt;span style=&quot;color: #000;&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;/b&gt;:&lt;b&gt;&lt;/b&gt;&lt;b&gt;&lt;/b&gt; the output text should exactly match the sample, including the letters’ case and location of spaces. &lt;/p&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;1&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;move up&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/3504&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/2298" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="2298" />
+                      <option name="index" value="2" />
+                      <option name="name" value="Direction" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="class Main {&#10;    public static void main(String[] args) {&#10;        // put your code here&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;A simple calculator&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/2299&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;Write a simple calculator that reads the three values from the line: the first number, the operation, and the second number.&lt;/p&gt; &#10;  &lt;p&gt;The program should apply the operation to the numbers entered (&quot;first number&quot; &quot;operation&quot; &quot;second number&quot;) and output the result to the screen. Note that the numbers are long.&lt;/p&gt; &#10;  &lt;p&gt;The calculator should support:&lt;/p&gt; &#10;  &lt;ul&gt; &#10;   &lt;li&gt;addition: &quot;+&quot;&lt;/li&gt; &#10;   &lt;li&gt;subtraction: &quot;-&quot;&lt;/li&gt; &#10;   &lt;li&gt;integer division: &quot;/&quot;&lt;/li&gt; &#10;   &lt;li&gt;multiplication: &quot;*&quot;&lt;/li&gt; &#10;  &lt;/ul&gt; &#10;  &lt;p&gt;If a user performs division and the second number is 0, it is necessary to output the line &quot;Division by 0!&quot;.&lt;/p&gt; &#10;  &lt;p&gt;If the input operator is not one from the list, the program should output &quot;Unknown operator&quot;.&lt;/p&gt; &#10;  &lt;p&gt;&lt;strong&gt;Note: i&lt;/strong&gt;t's recommended to use the switch statement in your solution.&lt;/p&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;10000000000 + 20000000000&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;30000000000&lt;br&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;3000 / 0&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;Division by 0!&lt;br&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;10000 ! 300&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;Unknown operator&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/3504&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/2299" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="2299" />
+                      <option name="index" value="3" />
+                      <option name="name" value="A simple calculator" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="class Main {&#10;    public static void main(String[] args) {&#10;        // put your code here&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Spiral&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/1931&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;Output the matrix of size &lt;span class=&quot;math-tex&quot;&gt;\( n \times n \)&lt;/span&gt;, filled by the integers from &lt;span class=&quot;math-tex&quot;&gt;\( 1 \)&lt;/span&gt; to &lt;span class=&quot;math-tex&quot;&gt;\( n^2 \)&lt;/span&gt; in a spiral, coming from the top left corner and twisted clockwise, as shown in the example (here &lt;span class=&quot;math-tex&quot;&gt;\( n=5 \)&lt;/span&gt;).&lt;/p&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;5&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;1 2 3 4 5&lt;br&gt;16 17 18 19 6&lt;br&gt;15 24 25 20 7&lt;br&gt;14 23 22 21 8&lt;br&gt;13 12 11 10 9&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/1933&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/1931" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="1931" />
+                      <option name="index" value="4" />
+                      <option name="name" value="Spiral" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="class Main {&#10;    public static void main(String[] args) {&#10;        // put your code here&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Pretty looking pattern&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/3800&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  In some design style, a 4x4 matrix pattern is considered looking pretty if it doesn't consist of a 2x2 matrix of the same color. Your task is to write the program that outputs &quot;YES&quot; if the 4x4 matrix is looking pretty, otherwise output &quot;NO&quot;.&#10;  &lt;br&gt;&#10;  &lt;br&gt;Input contains 4 lines, each line contains 4 symbols, different symbols represent different colors: &#10;  &lt;b&gt;W&lt;/b&gt; stands for white color, &#10;  &lt;b&gt;B&lt;/b&gt; - black, &#10;  &lt;b&gt;R&lt;/b&gt; - red, &#10;  &lt;b&gt;G &lt;/b&gt;- green, &#10;  &lt;b&gt;Y&lt;/b&gt; - yellow.&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;WWWW&lt;br&gt;BBBB&lt;br&gt;WWWW&lt;br&gt;YYYY&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;YES&lt;br&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;BBBB&lt;br&gt;BWWB&lt;br&gt;BWWB&lt;br&gt;BBBB&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;NO&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/1933&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/3800" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="3800" />
+                      <option name="index" value="5" />
+                      <option name="name" value="Pretty looking pattern" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="import java.util.*;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        // write your code here&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Cinema&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/1930&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;The cinema has n rows, each consisting of m seats (n and m do not exceed 20). The two-dimensional matrix stores the information on the sold tickets, number 1 means that the ticket for this place is already sold, the number 0 means that the place is available. You want to buy k tickets to the neighbouring seats in the same row. Find whether it can be done.&lt;/p&gt; &#10;  &lt;p&gt;&lt;b&gt;Input data format&lt;/b&gt;&lt;/p&gt; &#10;  &lt;p&gt;On the input, the program gets the numbers n and m. Next go n lines, each containing m numbers (0 or 1), separated by spaces. Next goes the number k.&lt;/p&gt; &#10;  &lt;p&gt;&lt;b&gt;Output data format&lt;/b&gt;&lt;/p&gt;&#10;  &lt;p&gt;The program should output the row number in which there are k consecutive available seats. If there are several such rows, output the number of the smallest such row. If there is no such row, output the number 0.&lt;/p&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;3 4&lt;br&gt;0 1 0 1&lt;br&gt;1 0 0 1&lt;br&gt;1 1 1 1&lt;br&gt;2&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;2&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 1s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/1933&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/1930" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="1930" />
+                      <option name="index" value="6" />
+                      <option name="name" value="Cinema" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Failed" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="class Main {&#10;    public static void main(String[] args) {&#10;        // put your code here&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Fill the matrix by numbers&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/1926&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;&lt;b&gt;Fill the matrix&lt;/b&gt;&lt;/p&gt;&#10;  &lt;p&gt;Given the number n, not greater than 100. Create the matrix of size n×n and fill it by the following rule. Numbers 0 should be stored on the primary diagonal. The two diagonals, adjacent to the primary one, should contain numbers 1. The next two diagonals - numbers 2, etc.&lt;/p&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;5&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;0 1 2 3 4&lt;br&gt;1 0 1 2 3&lt;br&gt;2 1 0 1 2&lt;br&gt;3 2 1 0 1&lt;br&gt;4 3 2 1 0&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 1s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/1933&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/1926" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="1926" />
+                      <option name="index" value="7" />
+                      <option name="name" value="Fill the matrix by numbers" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="class Main {&#10;    public static void main(String[] args) {&#10;        // put your code here&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Rotate a rectange array&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/1927&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;Given a rectangle array n×m in size. Rotate it by 90 degrees clockwise, by recording the result into the new array m×n in size.&lt;/p&gt; &#10;  &lt;p&gt;&lt;b&gt;Input data format&lt;/b&gt;&lt;/p&gt; &#10;  &lt;p&gt;Input the two numbers n and m, not exceeding 100, and then an array n×m in size.&lt;/p&gt; &#10;  &lt;p&gt;&lt;b&gt;Output data format&lt;/b&gt;&lt;/p&gt; &#10;  &lt;p&gt;Output the resulting array. Separate numbers by a single space in the output.&lt;/p&gt; &#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;3 4&lt;br&gt;11 12 13 14&lt;br&gt;21 22 23 24&lt;br&gt;31 32 33 34&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;31 21 11 &lt;br&gt;32 22 12 &lt;br&gt;33 23 13 &lt;br&gt;34 24 14&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 1s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/1933&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/1927" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="1927" />
+                      <option name="index" value="8" />
+                      <option name="name" value="Rotate a rectange array" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="class Main {&#10;    public static void main(String[] args) {&#10;        // put your code here&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Geometric cube&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/2159&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;You have a class &lt;strong&gt;&lt;code&gt;GeometricCube&lt;/code&gt;&lt;/strong&gt; with a 3-arguments constructor:&lt;/p&gt; &#10;  &lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;public GeometricCube(int width, int height, int length)&lt;/code&gt;&lt;/pre&gt; &#10;  &lt;p&gt;Write a program that reads &lt;code&gt;width&lt;/code&gt;, &lt;code&gt;height&lt;/code&gt; and &lt;code&gt;length&lt;/code&gt;, creates an instance named &lt;strong&gt;&lt;code&gt;cube&lt;/code&gt; &lt;/strong&gt;and outputs the result of &lt;strong&gt;&lt;code&gt;cube.toString()&lt;/code&gt;&lt;/strong&gt;.&lt;/p&gt; &#10;  &lt;p&gt;Use the provided template, do not change it!&lt;/p&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/3535&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/2159" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="2159" />
+                      <option name="index" value="9" />
+                      <option name="name" value="Geometric cube" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="import java.util.Scanner;&#10;&#10;public class Main {&#10;&#10;    public static void main(String[] args) {&#10;&#10;        Scanner scanner = new Scanner(System.in);&#10;&#10;        int width = scanner.nextInt();&#10;        int height = scanner.nextInt();&#10;        int length = scanner.nextInt(); &#10;&#10;        // creating an instance&#10;&#10;        System.out.println(cube.toString());&#10;    }&#10;}&#10;&#10;class GeometricCube {&#10;    private int width;&#10;    private int height;&#10;    private int length;&#10;&#10;    public GeometricCube(int width, int height, int length) {&#10;        this.width = width;&#10;        this.height = height;&#10;        this.length = length;&#10;    }&#10;&#10;    @Override&#10;    public String toString() {&#10;        return &quot;Cube(&quot; +&#10;                &quot;w=&quot; + width +&#10;                &quot;, h=&quot; + height +&#10;                &quot;, l=&quot; + length + ')';&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Account and its owner&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/2160&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;There are two classes: &lt;strong&gt;Account&lt;/strong&gt; with three fields (&lt;code&gt;code&lt;/code&gt;, &lt;code&gt;balance&lt;/code&gt;, &lt;code&gt;owner&lt;/code&gt;) and &lt;strong&gt;User&lt;/strong&gt; with three fields (&lt;code&gt;login&lt;/code&gt;, &lt;code&gt;firstName&lt;/code&gt;, &lt;code&gt;lastName&lt;/code&gt;). Both classes have parameterized constructors. See full declarations of these classes in the code template. Do not be afraid of the &lt;code&gt;static&lt;/code&gt; keyword. It's not important now.&lt;/p&gt; &#10;  &lt;p&gt;In the main method, create an instance of the Account class and pass it to the process method by calling &lt;strong&gt;process(account)&lt;/strong&gt;. This method is already defined but hidden.&lt;/p&gt; &#10;  &lt;p&gt;The instance must have the following values of the fields:&lt;/p&gt; &#10;  &lt;ul&gt; &#10;   &lt;li&gt;code: &quot;123456&quot;,&lt;/li&gt; &#10;   &lt;li&gt;balance: 1000,&lt;/li&gt; &#10;   &lt;li&gt;owner: (login: &quot;demo-user&quot;, firstName: &quot;Alexander&quot;, lastName: &quot;Schmidt&quot;).&lt;/li&gt; &#10;  &lt;/ul&gt; &#10;  &lt;p&gt;Note that the owner is an instance of the &lt;b&gt;User&lt;/b&gt; class.&lt;/p&gt; &#10;  &lt;p&gt;See provided template, do not change it.&lt;/p&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/3535&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/2160" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="2160" />
+                      <option name="index" value="10" />
+                      <option name="name" value="Account and its owner" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="public static void main(String[] args) {&#10;&#10;    // create an instance of Account here&#10;&#10;    // pass it into process method&#10;}&#10;&#10;static class Account {&#10;&#10;    private String code;&#10;    private Long balance;&#10;    private User owner;&#10;&#10;    public Account(String code, Long balance, User owner) {&#10;        this.code = code;&#10;        this.balance = balance;&#10;        this.owner = owner;&#10;    }&#10;&#10;    public String getCode() {&#10;        return code;&#10;    }&#10;&#10;    public Long getBalance() {&#10;        return balance;&#10;    }&#10;&#10;    public User getOwner() {&#10;        return owner;&#10;    }&#10;}&#10;&#10;static class User {&#10;&#10;    private String login;&#10;    private String firstName;&#10;    private String lastName;&#10;&#10;    public User(String login, String firstName, String lastName) {&#10;        this.login = login;&#10;        this.firstName = firstName;&#10;        this.lastName = lastName;&#10;    }&#10;&#10;    public String getLogin() {&#10;        return login;&#10;    }&#10;&#10;    public String getFirstName() {&#10;        return firstName;&#10;    }&#10;&#10;    public String getLastName() {&#10;        return lastName;&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Simulating a clock&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/2989&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;You&amp;nbsp;are given a class&amp;nbsp;&lt;code&gt;Clock&lt;/code&gt;. It has two int fields: &lt;code&gt;hours&lt;/code&gt; and &lt;code&gt;minutes&lt;/code&gt;. The clock has a minute scale from 0 to 59 and an hour scale from 1 to 12. The clock does not know whether it's day or night (no AM&amp;nbsp;or PM).&lt;/p&gt; &#10;  &lt;p&gt;&amp;nbsp;&lt;/p&gt; &#10;  &lt;p&gt;Add the method &lt;code&gt;next&lt;/code&gt; that increases the value of minutes by 1. The minutes must be reset to zero when the current hour ends. Do not forget to change hours as well.&lt;/p&gt; &#10;  &lt;p&gt;Do not make the fields and methods &lt;code&gt;private&lt;/code&gt;.&lt;/p&gt; &#10;  &lt;p&gt;Here is an example of a clock you are supposed to imitate.&lt;/p&gt; &#10;  &lt;p&gt;&amp;nbsp;&lt;/p&gt; &#10;  &lt;p style=&quot;text-align: center;&quot;&gt;&lt;img alt=&quot;&quot; height=&quot;201px&quot; src=&quot;https://ucarecdn.com/f62bb626-cc70-4dbd-a7f2-145418cc74c7/&quot; width=&quot;202px&quot;&gt;&lt;/p&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/3495&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/2989" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="2989" />
+                      <option name="index" value="11" />
+                      <option name="name" value="Simulating a clock" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Failed" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="class Clock {&#10;&#10;    int hours = 12;&#10;    int minutes = 0;&#10;&#10;    // the next method here&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Complex numbers&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/2952&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;Jake wants to write a program that works with complex numbers. He created a&amp;nbsp;class&amp;nbsp;&lt;code&gt;Complex&lt;/code&gt;&amp;nbsp;that represents a complex number with its real and imaginary parts. Now he needs instance methods so that he can calculate the sum and difference of two complex numbers.&lt;/p&gt; &#10;  &lt;p&gt;Help Jake and create two instance methods for his class:&lt;/p&gt; &#10;  &lt;ul&gt; &#10;   &lt;li&gt;&lt;code&gt;add&lt;/code&gt;&amp;nbsp;that takes another complex number as an argument and adds its corresponding fields to the current instance;&lt;/li&gt; &#10;   &lt;li&gt;&lt;code&gt;subtract&lt;/code&gt;&amp;nbsp;that takes another complex number as an argument and subtracts its corresponding fields from the current instance;&lt;/li&gt; &#10;  &lt;/ul&gt; &#10;  &lt;p&gt;Both methods should return nothing.&lt;/p&gt; &#10;  &lt;p&gt;Do not make the fields and methods &lt;code&gt;private&lt;/code&gt;.&lt;/p&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/3495&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/2952" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="2952" />
+                      <option name="index" value="12" />
+                      <option name="name" value="Complex numbers" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="class Complex {&#10;&#10;    double real;&#10;    double image;&#10;&#10;    // write methods here&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Danger levels&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/2971&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;You are given an enum named &lt;code&gt;DangerLevel&lt;/code&gt;.&lt;/p&gt; &#10;  &lt;p&gt;Add an integer field to store danger levels and match&amp;nbsp;the number with each constant:&lt;/p&gt; &#10;  &lt;ul&gt; &#10;   &lt;li&gt;&lt;code&gt;HIGH&lt;/code&gt; — 3&lt;/li&gt; &#10;   &lt;li&gt;&lt;code&gt;MEDIUM&lt;/code&gt; — 2&lt;/li&gt; &#10;   &lt;li&gt;&lt;code&gt;LOW&lt;/code&gt; — 1&lt;/li&gt; &#10;  &lt;/ul&gt; &#10;  &lt;p&gt;You should also add the instance method &lt;code&gt;getLevel&lt;/code&gt; that returns the associated integer number.&lt;/p&gt; &#10;  &lt;p&gt;After your modifications, the following code should be compiled and work correctly:&lt;/p&gt; &#10;  &lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;DangerLevel high = DangerLevel.HIGH;&#10;DangerLevel medium = DangerLevel.MEDIUM;&#10;System.out.println(high.getLevel() &amp;gt; medium.getLevel()); // true&lt;/code&gt;&lt;/pre&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/3607&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/2971" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="2971" />
+                      <option name="index" value="13" />
+                      <option name="name" value="Danger levels" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="enum DangerLevel {&#10;    HIGH,&#10;    MEDIUM,&#10;    LOW;&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;The secret enumeration&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/2970&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;You are given a hidden enum named &lt;code&gt;Secret&lt;/code&gt; with some constants in uppercase.&lt;/p&gt; &#10;  &lt;p&gt;Write a program that counts how many constants in the enumeration start with&amp;nbsp;&lt;strong&gt;&quot;STAR&quot;&lt;/strong&gt;.&lt;/p&gt; &#10;  &lt;p&gt;The enum is accessible during testing.&lt;/p&gt; &#10;  &lt;p&gt;The small enum for tests:&lt;/p&gt; &#10;  &lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;// At least two constants start with STAR&#10;enum Secret {&#10;&amp;nbsp; &amp;nbsp; STAR, CRASH, START, // ..&#10;}&lt;/code&gt;&lt;/pre&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/3607&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/2970" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="2970" />
+                      <option name="index" value="14" />
+                      <option name="name" value="The secret enumeration" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="public class Main {&#10;&#10;    public static void main(String[] args) {&#10;&#10;    }&#10;}&#10;&#10;/* At least two constants start with STAR&#10;enum Secret {&#10;    STAR, CRASH, START, // ...&#10;}&#10;*/" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                  </list>
+                </option>
+              </Lesson>
+            </list>
+          </option>
+        </HyperskillCourse>
+      </option>
+    </StudyTaskManager>
+  </component>
+</project>
