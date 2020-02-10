@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5adb56f0-776c-4f92-8681-777ada417606" name="Default Changelist" comment="" />
+    <list default="true" id="5adb56f0-776c-4f92-8681-777ada417606" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/Tic-Tac-Toe/task/.gradle/" />
@@ -90,8 +96,8 @@
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
-                <MainEditorState relative-caret-position="289">
-                  <caret line="113" column="23" lean-forward="true" selection-start-line="113" selection-start-column="23" selection-end-line="113" selection-end-column="23" />
+                <MainEditorState relative-caret-position="199">
+                  <caret line="95" column="55" lean-forward="true" selection-start-line="95" selection-start-column="55" selection-end-line="95" selection-end-column="55" />
                 </MainEditorState>
               </EduEditorState>
             </state>
@@ -105,6 +111,9 @@
       <find>X wins</find>
       <find>IMPOSSIBLE</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -138,13 +147,13 @@
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="Course" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Course">
         <subPane>
           <expand>
@@ -168,6 +177,7 @@
         </subPane>
       </pane>
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -290,7 +300,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -298,9 +307,9 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.12846482" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.12953092" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32987553" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32987553" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32843137" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39834026" />
       <window_info anchor="bottom" id="Messages" order="4" weight="0.32987553" />
@@ -320,7 +329,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
       <window_info anchor="right" id="Run" order="8" weight="0.37846482" />
-      <window_info active="true" anchor="right" id="Task" order="9" visible="true" weight="0.26066098" />
+      <window_info anchor="right" id="Task" order="9" visible="true" weight="0.26066098" />
       <window_info anchor="right" id="Gradle" order="10" weight="0.32980332" />
     </layout>
   </component>
@@ -550,8 +559,8 @@
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState relative-caret-position="289">
-              <caret line="113" column="23" lean-forward="true" selection-start-line="113" selection-start-column="23" selection-end-line="113" selection-end-column="23" />
+            <MainEditorState relative-caret-position="199">
+              <caret line="95" column="55" lean-forward="true" selection-start-line="95" selection-start-column="55" selection-end-line="95" selection-end-column="55" />
             </MainEditorState>
           </EduEditorState>
         </state>
