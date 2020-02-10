@@ -5,10 +5,9 @@ import java.util.Scanner;
 
 public class Main {
 
-    /*
-     full game to  with a friend. First one of you moves as X, and then the other one moves as O.
-     You need to create a game loop. The game starts with empty cells and ends when someone wins or there is a draw.
-     You need to output the final result after the end of the game.
+     /*
+     full game to play with a friend. First one of you moves as X, and then the other one moves as O.
+     The game starts with empty cells and ends when someone wins or there is a draw.
      */
     public static Scanner scanner = new Scanner(System.in);
 
